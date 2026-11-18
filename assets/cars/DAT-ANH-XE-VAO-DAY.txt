@@ -1,0 +1,1 @@
+Bỏ ảnh xe của bạn vào thư mục này (ví dụ r34.jpg), rồi ghi tên file vào assets/cars.js
