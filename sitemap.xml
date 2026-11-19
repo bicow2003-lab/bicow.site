@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://TENMIEN.COM/</loc></url>
-  <url><loc>https://TENMIEN.COM/bicow/</loc></url>
-  <url><loc>https://TENMIEN.COM/portfolio/</loc></url>
+  <url><loc>https://bicow.site/</loc></url>
+  <url><loc>https://bicow.site/bicow/</loc></url>
+  <url><loc>https://bicow.site/portfolio/</loc></url>
+  <url><loc>https://bicow.site/book/</loc></url>
+  <url><loc>https://bicow.site/book/game-caster.html</loc></url>
+  <url><loc>https://bicow.site/book/mc.html</loc></url>
+  <url><loc>https://bicow.site/book/hop-tac.html</loc></url>
+  <url><loc>https://bicow.site/book/booking.html</loc></url>
 </urlset>
